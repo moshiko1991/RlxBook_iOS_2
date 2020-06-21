@@ -27,6 +27,7 @@
 		B259F3FE249FE15800AFC669 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B259F3F5249FE15800AFC669 /* SettingsViewController.swift */; };
 		B259F400249FE16300AFC669 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B259F3FF249FE16300AFC669 /* Main.storyboard */; };
 		B259F402249FE1CB00AFC669 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B259F401249FE1CB00AFC669 /* GoogleService-Info.plist */; };
+		B259F404249FE35500AFC669 /* Post.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B259F403249FE35500AFC669 /* Post.storyboard */; };
 		F39C37BC662069B418E2B00E /* Pods_RlxBook_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 972DBC0407F310DFE06418DD /* Pods_RlxBook_iOS.framework */; };
 /* End PBXBuildFile section */
 
@@ -55,6 +56,7 @@
 		B259F3F5249FE15800AFC669 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		B259F3FF249FE16300AFC669 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		B259F401249FE1CB00AFC669 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		B259F403249FE35500AFC669 /* Post.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Post.storyboard; sourceTree = "<group>"; };
 		FB7EBDE0344EDC1A21079A82 /* Pods-RlxBook_iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RlxBook_iOS.debug.xcconfig"; path = "Target Support Files/Pods-RlxBook_iOS/Pods-RlxBook_iOS.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -116,6 +118,7 @@
 				B259F3D0249FE0EC00AFC669 /* SceneDelegate.swift */,
 				B259F3D2249FE0EC00AFC669 /* ViewController.swift */,
 				B259F3FF249FE16300AFC669 /* Main.storyboard */,
+				B259F403249FE35500AFC669 /* Post.storyboard */,
 				B259F3D7249FE0EE00AFC669 /* Assets.xcassets */,
 				B259F3D9249FE0EE00AFC669 /* LaunchScreen.storyboard */,
 				B259F401249FE1CB00AFC669 /* GoogleService-Info.plist */,
@@ -221,6 +224,7 @@
 				B259F400249FE16300AFC669 /* Main.storyboard in Resources */,
 				B259F402249FE1CB00AFC669 /* GoogleService-Info.plist in Resources */,
 				B259F3D8249FE0EE00AFC669 /* Assets.xcassets in Resources */,
+				B259F404249FE35500AFC669 /* Post.storyboard in Resources */,
 				B259F3FB249FE15800AFC669 /* PostTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
